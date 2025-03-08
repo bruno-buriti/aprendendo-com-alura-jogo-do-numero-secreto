@@ -2,9 +2,10 @@
 
 <br>
 
-##  Sobre
+##  Sobre o Projeto
 🎲 Tente adivinhar o número que o sistema escolheu aleatoriamente, acesse [aqui](https://bruno-buriti.github.io/jogo-do-numero-secreto).  
-📖 Com esse projeto e através dos cursos Alura eu pude aprender mais sobre as linguagens e ferramentas destacadas a seguir.
+📖 Serviu para eu aprender mais sobre as linguagens e ferramentas destacadas a seguir.  
+📜 Foi desenvolvido com o aprendizado dos cursos [Alura](https://www.alura.com.br).
 
 <br>
 
@@ -17,11 +18,3 @@
   <img height="26px" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF">
   <img height="26px" src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=FFFFFF">
 </div>
-
-<br>
-
-##  Citação
-
-Esse projeto foi baseado nos cursos [Alura](https://www.alura.com.br).
-
-[<img height=90px loading="lazy" src="https://github.com/alura-cursos.png">](https://www.alura.com.br)
