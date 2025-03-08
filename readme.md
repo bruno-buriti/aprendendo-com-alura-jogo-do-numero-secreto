@@ -1,10 +1,10 @@
-# [Jogo do Número Secreto](https://bruno-buriti.github.io/aprendendo-com-alura-jogo-do-numero-secreto/)
+# [Jogo do Número Secreto](https://bruno-buriti.github.io/jogo-do-numero-secreto)
 
 <br>
 
 ##  Sobre
-🎲 Tente adivinhar o número que o sistema escolheu aleatoriamente, acesse [aqui](https://bruno-buriti.github.io/aprendendo-com-alura-jogo-do-numero-secreto).  
-📖 Através desse projeto eu pude aprender mais sobre as linguagens e ferramentas destacadas a seguir.
+🎲 Tente adivinhar o número que o sistema escolheu aleatoriamente, acesse [aqui](https://bruno-buriti.github.io/jogo-do-numero-secreto).  
+📖 Com esse projeto e através dos cursos Alura eu pude aprender mais sobre as linguagens e ferramentas destacadas a seguir.
 
 <br>
 
